@@ -46,6 +46,8 @@ class TestAliens():
         time.sleep(5)
 
 '''
+# Решение с автоматическим сбором искомой строки из подсказок обратной связи
+
 from selenium import webdriver
 import pytest
 import time
@@ -79,6 +81,8 @@ def test_find_hidden_text(browser, lesson):
 '''
 
 '''
+# Решение от одного из модераторов курса с подробными комментариями
+
 import pytest
 from selenium import webdriver
 import time

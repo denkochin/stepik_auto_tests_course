@@ -1,0 +1,56 @@
+1634667208372	geckodriver	INFO	Listening on 127.0.0.1:57405
+1634667211443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\dkoch\\AppData\\Local\\Temp\\rust_mozprofileZA9I4q"
+1634667211734	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dkoch\\AppData\\Local\\Temp\\rust_mozprofileZA9I4q\\search.json.mozlz4", (void 0)))
+1634667213711	Marionette	INFO	Listening on port 61745
+1634667214105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1634580492, line 6074: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 1180, MediaDecoderStateMachine #1] WARNING: Decoder=25f4923e800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 1180, MediaDecoderStateMachine #1] WARNING: Decoder=25f4923e800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3541
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 1180, MediaDecoderStateMachine #1] WARNING: 25f4e2bbc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://yastatic.net/yandex-video-player-iframe-api-bundles/1.0-7600/js/player.v2.modern.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://yastatic.net/yandex-video-player-iframe-api-bundles/1.0-7600/js/player.v2.modern.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1634580492, line 6074: unreachable code after return statement
+1634667303154	Marionette	INFO	Stopped listening on port 61745
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1634670659489	geckodriver	INFO	Listening on 127.0.0.1:61008
+1634670662582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\dkoch\\AppData\\Local\\Temp\\rust_mozprofileeGNiYs"
+1634670662950	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dkoch\\AppData\\Local\\Temp\\rust_mozprofileeGNiYs\\search.json.mozlz4", (void 0)))
+1634670665002	Marionette	INFO	Listening on port 54522
+1634670665248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1634670666723	Marionette	INFO	Stopped listening on port 54522
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634680501323	geckodriver	INFO	Listening on 127.0.0.1:60273
+1634680504390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\dkoch\\AppData\\Local\\Temp\\rust_mozprofileKQjboK"
+1634680504757	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dkoch\\AppData\\Local\\Temp\\rust_mozprofileKQjboK\\search.json.mozlz4", (void 0)))
+1634680507165	Marionette	INFO	Listening on port 60281
+1634680507568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1634680508978	Marionette	INFO	Stopped listening on port 60281
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634680511545	geckodriver	INFO	Listening on 127.0.0.1:60317
+1634680514608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\dkoch\\AppData\\Local\\Temp\\rust_mozprofileAo8lOR"
+1634680514951	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\dkoch\\AppData\\Local\\Temp\\rust_mozprofileAo8lOR\\search.json.mozlz4", (void 0)))
+1634680517260	Marionette	INFO	Listening on port 60325
+1634680517762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1634680519240	Marionette	INFO	Stopped listening on port 60325
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
